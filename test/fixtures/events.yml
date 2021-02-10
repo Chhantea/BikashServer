@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  eventName: MyString
+  stime: 2021-02-10 14:03:50
+  etime: 2021-02-10 14:03:50
+
+two:
+  user: two
+  eventName: MyString
+  stime: 2021-02-10 14:03:50
+  etime: 2021-02-10 14:03:50
